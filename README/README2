@@ -1,0 +1,8 @@
+## Part 2: Dataset Description
+
+The dataset was selected from OpenML and contains customer information related to telecom services.
+
+Dataset link:
+https://www.openml.org/search?type=data&status=active&id=42178
+
+The target variable is Churn.
