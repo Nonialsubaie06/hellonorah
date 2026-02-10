@@ -3,6 +3,6 @@
 The dataset was selected from OpenML and contains customer information related to telecom services.
 
 Dataset link:
-https://www.openml.org/search?type=data&status=active&id=42178
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The target variable is Churn.
