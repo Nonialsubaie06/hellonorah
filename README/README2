@@ -1,8 +1,0 @@
-## Part 2: Dataset Description
-
-The dataset was selected from kaggle and contains customer information related to telecom services.
-
-Dataset link:
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-
-The target variable is Churn.
